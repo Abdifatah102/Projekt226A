@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/RPS/Properties/Rock.cs" line="44" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eee28132-cf26-4de5-9bcf-5b89e6636b27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RPS/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RPS/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <marker date="1551695688752" expanded="true" signature="6:127" ph="..." />
+                <marker date="1551695688752" expanded="true" signature="142:4752" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="175:293" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="356:1036" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="488:563" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="630:861" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="889:952" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="1078:1172" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="1236:2107" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="1330:1658" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="1440:1621" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="1710:1808" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="1893:2101" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="2132:2144" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="2173:4745" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="2329:2401" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="2424:4468" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="2653:2777" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="2852:3623" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="3759:3962" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="3777:3948" ph="/* {&quot;1&quot;, new Rock()}, ... */" />
+                <marker date="1551695688752" expanded="true" signature="4066:4350" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="4129:4340" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="4386:4406" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="4442:4462" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="4496:4742" ph="{...}" />
+                <marker date="1551695688752" expanded="true" signature="4568:4740" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/Properties/Rock.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <marker date="1551695924655" expanded="true" signature="6:47" ph="..." />
+                <marker date="1551695924655" expanded="true" signature="73:1247" ph="{...}" />
+                <marker date="1551695924655" expanded="true" signature="79:863" ph="/* public class Rock : SelectionBase ... */" />
+                <marker date="1551695924655" expanded="true" signature="900:1244" ph="{...}" />
+                <marker date="1551695924655" expanded="true" signature="980:1220" ph="{...}" />
+                <marker date="1551695924655" expanded="true" signature="1221:1239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/Properties/Paper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding>
+                <marker date="1551695924639" expanded="true" signature="59:347" ph="{...}" />
+                <marker date="1551695924639" expanded="true" signature="100:344" ph="{...}" />
+                <marker date="1551695924639" expanded="true" signature="183:317" ph="{...}" />
+                <marker date="1551695924639" expanded="true" signature="318:338" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/Properties/Scissors.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <marker date="1551696654160" expanded="true" signature="39:737" ph="{...}" />
+                <marker date="1551696654160" expanded="true" signature="84:732" ph="{...}" />
+                <marker date="1551696654160" expanded="true" signature="157:390" ph="{...}" />
+                <marker date="1551696654160" expanded="true" signature="450:726" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/Properties/Spock.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <marker date="1551689702251" expanded="true" signature="24:63" ph="{...}" />
+                <marker date="1551689702251" expanded="true" signature="49:61" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/Properties/Gun.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <marker date="1551689702204" expanded="true" signature="24:61" ph="{...}" />
+                <marker date="1551689702204" expanded="true" signature="47:59" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/Properties/Lizard.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <marker date="1551689702266" expanded="true" signature="24:64" ph="{...}" />
+                <marker date="1551689702266" expanded="true" signature="50:62" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/Properties/Zombie.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <marker date="1551689702297" expanded="true" signature="24:64" ph="{...}" />
+                <marker date="1551689702297" expanded="true" signature="50:62" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPS/RockPaperScissors.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <marker date="1551689702329" expanded="true" signature="13:64" ph="{...}" />
+                <marker date="1551689702329" expanded="true" signature="50:62" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RPS/Properties/Spock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/Properties/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/Properties/Zombie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/Properties/Rock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/Properties/Paper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/Properties/Scissors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/RockPaperScissors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RPS/Properties/Lizard.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RPS/RockPaperScissors.cs" />
+        <option value="$PROJECT_DIR$/RPS/Properties/Lizard.cs" />
+        <option value="$PROJECT_DIR$/RPS/Properties/Spock.cs" />
+        <option value="$PROJECT_DIR$/RPS/Properties/Gun.cs" />
+        <option value="$PROJECT_DIR$/RPS/Properties/Zombie.cs" />
+        <option value="$PROJECT_DIR$/RPS/Program.cs" />
+        <option value="$PROJECT_DIR$/RPS/Properties/Paper.cs" />
+        <option value="$PROJECT_DIR$/RPS/Properties/Scissors.cs" />
+        <option value="$PROJECT_DIR$/RPS/Properties/Rock.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="950" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RPS" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RPS" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RPS" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RPS" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RPS" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/test/test.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RPS/bin/Debug/RPS.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RPS/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RPS/RPS.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee28132-cf26-4de5-9bcf-5b89e6636b27" name="Default Changelist" comment="" />
+      <created>1550648121517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550648121517</updated>
+      <workItem from="1550648126150" duration="11033000" />
+      <workItem from="1550679829890" duration="1817000" />
+      <workItem from="1550734822468" duration="4126000" />
+      <workItem from="1550821154155" duration="3625000" />
+      <workItem from="1551686251369" duration="9174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29775000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="974" height="943" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21991247" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32962963" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32839507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32962963" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32962963" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.33209875" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RPS/Properties/Zombie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1551689702297" expanded="true" signature="24:64" ph="{...}" />
+            <marker date="1551689702297" expanded="true" signature="50:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/RockPaperScissors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1551689702329" expanded="true" signature="13:64" ph="{...}" />
+            <marker date="1551689702329" expanded="true" signature="50:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/Properties/Lizard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1551689702266" expanded="true" signature="24:64" ph="{...}" />
+            <marker date="1551689702266" expanded="true" signature="50:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/Properties/Spock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1551689702251" expanded="true" signature="24:63" ph="{...}" />
+            <marker date="1551689702251" expanded="true" signature="49:61" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/Properties/Gun.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1551689702204" expanded="true" signature="24:61" ph="{...}" />
+            <marker date="1551689702204" expanded="true" signature="47:59" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.idea.RPS/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/Properties/Paper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <marker date="1551695924639" expanded="true" signature="59:347" ph="{...}" />
+            <marker date="1551695924639" expanded="true" signature="100:344" ph="{...}" />
+            <marker date="1551695924639" expanded="true" signature="183:317" ph="{...}" />
+            <marker date="1551695924639" expanded="true" signature="318:338" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/Properties/Scissors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1551696654160" expanded="true" signature="39:737" ph="{...}" />
+            <marker date="1551696654160" expanded="true" signature="84:732" ph="{...}" />
+            <marker date="1551696654160" expanded="true" signature="157:390" ph="{...}" />
+            <marker date="1551696654160" expanded="true" signature="450:726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/Properties/Rock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <marker date="1551695924655" expanded="true" signature="6:47" ph="..." />
+            <marker date="1551695924655" expanded="true" signature="73:1247" ph="{...}" />
+            <marker date="1551695924655" expanded="true" signature="79:863" ph="/* public class Rock : SelectionBase ... */" />
+            <marker date="1551695924655" expanded="true" signature="900:1244" ph="{...}" />
+            <marker date="1551695924655" expanded="true" signature="980:1220" ph="{...}" />
+            <marker date="1551695924655" expanded="true" signature="1221:1239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPS/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1551695688752" expanded="true" signature="6:127" ph="..." />
+            <marker date="1551695688752" expanded="true" signature="142:4752" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="175:293" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="356:1036" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="488:563" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="630:861" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="889:952" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="1078:1172" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="1236:2107" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="1330:1658" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="1440:1621" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="1710:1808" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="1893:2101" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="2132:2144" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="2173:4745" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="2329:2401" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="2424:4468" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="2653:2777" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="2852:3623" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="3759:3962" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="3777:3948" ph="/* {&quot;1&quot;, new Rock()}, ... */" />
+            <marker date="1551695688752" expanded="true" signature="4066:4350" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="4129:4340" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="4386:4406" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="4442:4462" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="4496:4742" ph="{...}" />
+            <marker date="1551695688752" expanded="true" signature="4568:4740" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

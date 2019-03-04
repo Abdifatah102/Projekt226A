@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vmadmin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vmadmin\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_RPS.168265955.00" t="ExcludeRecursive" />
+    <e p="C:\Users\vmadmin\RiderProjects\RPS" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RPS" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Gun.cs" t="Include" />
+          <e p="Lizard.cs" t="Include" />
+          <e p="Paper.cs" t="Include" />
+          <e p="Rock.cs" t="Include" />
+          <e p="Scissors.cs" t="Include" />
+          <e p="Spock.cs" t="Include" />
+          <e p="Zombie.cs" t="Include" />
+        </e>
+        <e p="RockPaperScissors.cs" t="Include" />
+        <e p="RPS.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RPS.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
