@@ -172,7 +172,8 @@ namespace RPS
 
         Console.WriteLine
         ("Willkommen zum Rock, Paper & Scissors Spiel");
-    }
+        string[] AIchoice = {"rock", "paper", "scissor", "rock", "paper", "scissor"};
+        }
 }
 
 }
