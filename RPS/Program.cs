@@ -6,6 +6,8 @@ using RPS.Properties;
 
 namespace RPS
 {
+    
+     
     public enum SelectionBase
 
     {
@@ -26,8 +28,9 @@ namespace RPS
         public SelectionBase(List<WinningPlay> winsAgainst)
         {
             _winsAgainst = winsAgainst;
+           
 
-            
+
 
         }
         
@@ -160,6 +163,8 @@ namespace RPS
         {
         }
     }
+    
+    
 
     internal class Program
     {

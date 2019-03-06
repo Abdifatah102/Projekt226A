@@ -3,18 +3,18 @@ using System.Collections.Generic;
 
 namespace RPS.Properties
 {
-   /* public class Rock : SelectionBase
+    public class Rock : SelectionBase
     {
-        public override string GetWinningVerb(SelectionBase other)
+        public string GetWinningVerb(SelectionBase other)
         {
-            if (other is SelectionBase.Scissors) return "crushes";
-            if (other is SelectionBase.Lizard) return "crushes";
-            if (other is SelectionBase.Zombie) return "trips";
+            if (other is Scissors) return "crushes";
+            if (other is Lizard) return "crushes";
+            if (other is Zombie) return "trips";
 
             throw new InvalidOperationException("Is this the same game?");
         }
 
-        public override int CompareTo(SelectionBase other)
+        public int CompareTo(SelectionBase other)
         {
             if (other is Rock) return 1;
             if (other is Paper) return 0;
@@ -25,8 +25,18 @@ namespace RPS.Properties
             throw new InvalidOperationException("Is this the same game?");
         }
     }
-    */
-   public class Rock : SelectionBase
+    
+    public partial class { Rock() 
+    : base(new List<WinningPlay>
+    {
+    new WinningPlay(typeof(Scissors), "crushes"),
+    new WinningPlay(typeof(Lizard), "crushes")
+    })
+    }
+
+
+
+   /*public class Rock : SelectionBase
    {
 
        public Rock() 
@@ -40,6 +50,6 @@ namespace RPS.Properties
            })
        {
        }
-   }
+   } */
 
 }
